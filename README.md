@@ -1,4 +1,14 @@
-TASK - 1
+# Project: Selenium Automation Tasks
+
+This repository contains multiple automation tasks using **Selenium** WebDriver. Below are the tasks with descriptions, code, and video demonstrations for each one.
+
+## Task 1: YouTube Search Automation
+
+### Description
+This script automates the process of searching for a "makeup tutorial" on YouTube. It uses Selenium WebDriver to open the website, input a search query, and verify that the search results are displayed.
+
+### Code
+```python
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -21,4 +31,9 @@ def search_youtube():
         driver.quit()
 
 search_youtube()
-This Python script uses Selenium to automate the process of searching for a "makeup tutorial" on YouTube. The script opens the YouTube website, inputs a search query, and verifies that the search results are displayed.
+
+Video Demonstration
+Here is a video demonstrating the task:
+https://github.com/user-attachments/assets/e2fec751-12ce-4c2b-8f6a-9bc9a53f0ba2
+
+
