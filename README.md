@@ -1,6 +1,8 @@
-# Project: Selenium Automation Tasks
+
+# Project: Selenium Automation Tasks 
 
 This repository contains multiple automation tasks using **Selenium** WebDriver. Below are the tasks with descriptions, code, and video demonstrations for each one.
+(There is a video under each task, please open it in another tab)
 
 ## Task 1: YouTube Search Automation
 
