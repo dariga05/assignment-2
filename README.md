@@ -165,9 +165,3 @@ finally:
     driver.quit()
 Video Demonstration
 https://github.com/user-attachments/assets/81861e17-8139-404c-85ca-36154127d3da
-
-
-
-
-
-
